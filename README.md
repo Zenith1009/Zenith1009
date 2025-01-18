@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zenith1009</h1>
+<h1 align="center">Hi 👋, I'm Naishadh</h1>
 <h3 align="center">I’m interested in everything, I try to absorb as much knowledge as I can. </h3>
 <h4 align="center">I'm a moderately fast learner!</h4>
 
